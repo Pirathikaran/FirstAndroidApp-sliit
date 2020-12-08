@@ -43,8 +43,7 @@
          "RadioDesc":"Radio Afsana 24/7 is new remix non-stop online radio station mix Masala, Desi, Hindi, Bhangra with the latest and hit songs from Bollywood.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://radioafsana.com/",
-         "RadioPic":"url.com/RadioPics/58.png?dt=2515202008:15:14"
-      },
+ "RadioPic":"https://shakthifm.com/live/images/logo.png"      },
       {
          "ID":62,
          "RadioName":"Panjab Radio",
@@ -70,8 +69,7 @@
          "RadioDesc":"Raaj FM broadcasts a number of programmes that serve the Punjabi community.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.raajfm.com/",
-         "RadioPic":"url.com/RadioPics/65.png?dt=2515202008:15:14"
-      },
+ "RadioPic":"https://shakthifm.com/live/images/logo.png"      },
       {
          "ID":184,
          "RadioName":"Radio Punjabi Virsa",
