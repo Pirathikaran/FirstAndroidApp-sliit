@@ -43,7 +43,7 @@
          "RadioDesc":"Radio Humsafar streaming in Hindi, Punjabi, Urdu and English live from Canada.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.radiohumsafar.com",
-         "RadioPic":"url.com/RadioPics/57.png?dt=2515202008:15:14"
+         "RadioPic":"url.com/RadioPixxcs/57.png?dt=2515202008:15:14"
       },
       {
          "ID":58,
