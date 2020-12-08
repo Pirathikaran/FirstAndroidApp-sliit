@@ -16,7 +16,7 @@
          "RadioDesc":"Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
-         "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2013/05/sooriyan-fm.jpeg"
+         "RadioPic":"https://static-media.streema.com/media/cache/64/b4/64b4ab1983a3aa93af7b8531858cdfb6.jpg"
       },
       {
          "ID":55,
@@ -25,7 +25,7 @@
          "RadioDesc":"Dhol Radio is the first Punjabi Radio which is broadcasting from a village of Punjab. Dhol Radio 24/7 Punjabi Music, Bhangra.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
-          "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2018/09/sun-fm.jpg"
+          "RadioPic":"https://shakthifm.com/wp-content/uploads/2018/11/6-560x560.jpg"
       },
       
       
