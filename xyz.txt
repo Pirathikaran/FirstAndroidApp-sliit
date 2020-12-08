@@ -7,7 +7,7 @@
          "RadioDesc":"The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
-         "RadioPic":"url.com/RadioPics/53.png?dt=2515202008:15:14"
+         "RadioPic":"https://shakthifm.com/live/images/logo.png"
       },
       {
          "ID":54,
