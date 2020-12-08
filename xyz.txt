@@ -16,7 +16,7 @@
          "RadioDesc":"Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
-         "RadioPic":"https://static-media.streema.com/media/cache/64/b4/64b4ab1983a3aa93af7b8531858cdfb6.jpg"
+         "RadioPic":"https://mytuner.global.ssl.fastly.net/media/tvos_radios/x83w98epv98x.png"
       },
       {
          "ID":55,
