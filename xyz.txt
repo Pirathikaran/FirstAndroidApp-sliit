@@ -16,7 +16,7 @@
          "RadioDesc":"Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
-         "RadioPic":"https://shakthifm.com/live/images/logo.png"
+         "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2013/05/sooriyan-fm.jpeg"
       },
       {
          "ID":55,
@@ -25,60 +25,9 @@
          "RadioDesc":"Dhol Radio is the first Punjabi Radio which is broadcasting from a village of Punjab. Dhol Radio 24/7 Punjabi Music, Bhangra.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
-          "RadioPic":"https://shakthifm.com/live/images/logo.png"
+          "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2018/09/sun-fm.jpg"
       },
-      {
-         "ID":57,
-         "RadioName":"Humsafar Radio Canada",
-         "RadioURL":"http://66.90.104.41:8214/;",
-         "RadioDesc":"Radio Humsafar streaming in Hindi, Punjabi, Urdu and English live from Canada.",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://www.radiohumsafar.com",
-    "RadioPic":"https://shakthifm.com/live/images/logo.png"
-      },
-      {
-         "ID":58,
-         "RadioName":"Radio Afsana",
-         "RadioURL":"http://174.36.206.197:7019/;",
-         "RadioDesc":"Radio Afsana 24/7 is new remix non-stop online radio station mix Masala, Desi, Hindi, Bhangra with the latest and hit songs from Bollywood.",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://radioafsana.com/",
- "RadioPic":"https://shakthifm.com/live/images/logo.png"      },
-      {
-         "ID":62,
-         "RadioName":"Panjab Radio",
-         "RadioURL":"http://s1.voscast.com:7918/;",
-         "RadioDesc":"Panjab Radio is an energetic business offering entertaining radio programmes to listeners throughout the UK, Europe and worldwide on different platforms.",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://www.panjabradio.co.uk/",
-         "RadioPic":"https://shakthifm.com/live/images/logo.png"
-      },
-      {
-         "ID":64,
-         "RadioName":"Chann Pardesi Punjabi Radio",
-         "RadioURL":"http://mehramedia.com:8021/",
-         "RadioDesc":"Radio Chann Pardesi - Chann Pardesi Punjabi Radio Bolingbrook, IL - listen online, schedule, location, contact, song playlist and broadcast information.",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://channpardesi.com",
-      "RadioPic":"https://shakthifm.com/live/images/logo.png"
-      },
-      {
-         "ID":65,
-         "RadioName":"Raaj FM8",
-         "RadioURL":"http://live.canstream.co.uk:8000/raajfm.mp3",
-         "RadioDesc":"Raaj FM broadcasts a number of programmes that serve the Punjabi community.",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://www.raajfm.com/",
- "RadioPic":"https://shakthifm.com/live/images/logo.png"      },
-      {
-         "ID":184,
-         "RadioName":"Radio Punjabi Virsa",
-         "RadioURL":"http://stream.zenolive.com/25h82wv629duv",
-         "RadioDesc":"Best Punjabi Songs ever",
-         "RadioShortDesc":null,
-         "RadioWebsite":"http://radiopunjabivirsa.com/",
- "RadioPic":"https://shakthifm.com/live/images/logo.png"
-      }
+      
       
    ],
    "Message":"72",
