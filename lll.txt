@@ -30,7 +30,7 @@
       {
          "ID":4,
          "RadioName":"Sooriiiiyan",
-         "RadioURL":"http://209.133.216.3:7071/;stream.mp3",
+         "RadioURL":"http://s3.voscast.com:8402/",
          "RadioDesc":"103.6 FM or 103.4 FM Isclandwide.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
