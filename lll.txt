@@ -3,7 +3,7 @@
       {
          "ID":1,
          "RadioName":"Sooriyan",
-         "RadioURL":"http://sooriyanfm.asiabroadcasting.stream:7071/",
+         "RadioURL":"http://209.133.216.3:7071/;stream.mp3",
          "RadioDesc":"103.6 FM or 103.4 FM Islandwide.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
