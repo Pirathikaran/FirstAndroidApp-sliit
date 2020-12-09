@@ -1,0 +1,34 @@
+{
+   "Data":[
+      {
+         "ID":1,
+         "RadioName":"Sooriyan",
+         "RadioURL":"http://209.133.216.3:7071/;stream.mp3",
+         "RadioDesc":"103.6 FM or 103.4 FM Islandwide.",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.desiworldradio.com",
+         "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2013/05/sooriyan-fm.jpeg"
+      },
+      {
+         "ID":2,
+         "RadioName":"Shakthi FM",
+         "RadioURL":"http://209.133.216.3:7071/;stream.mp3",
+         "RadioDesc":"103.6 FM",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.desimusicmix.com/",
+         "RadioPic":"https://shakthifm.com/live/images/logo.png"
+      },
+      {
+         "ID":3,
+         "RadioName":"IBC Tamil",
+         "RadioURL":"http://10454.cloudrad.io:6176/live/;stream.mp3",
+         "RadioDesc":"Dhol Radio is the first Punjabi Radio which is broadcasting from a village of Punjab. Dhol Radio 24/7 Punjabi Music, Bhangra.",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.dholradio.co/",
+         "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2013/11/ibc-tamil-radio.jpg"
+      }
+     
+   ],
+   "Message":"72",
+   "Result":1
+}
