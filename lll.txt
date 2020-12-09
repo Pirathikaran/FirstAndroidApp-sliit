@@ -7,7 +7,7 @@
          "RadioDesc":"103.6 FM or 103.4 FM Islandwide.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
-         "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2013/05/sooriyan-fm.jpeg"
+         "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/201/05/sooriyan-fm.jpeg"
       },
       {
          "ID":2,
@@ -26,6 +26,15 @@
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
          "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2013/11/ibc-tamil-radio.jpg"
+      },
+      {
+         "ID":4,
+         "RadioName":"Sooriiiiyan",
+         "RadioURL":"http://209.133.216.3:7071/;stream.mp3",
+         "RadioDesc":"103.6 FM or 103.4 FM Isclandwide.",
+         "RadioShortDesc":null,
+         "RadioWebsite":"http://www.desiworldradio.com",
+         "RadioPic":"https://www.liveonlineradio.net/wp-content/uploads/2013/05/sooriyan-fm.jpeg"
       }
      
    ],
